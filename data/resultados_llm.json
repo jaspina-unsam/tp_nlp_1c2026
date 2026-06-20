@@ -1,0 +1,338 @@
+{
+  "Valentina": {
+    "recomendaciones": [
+      {
+        "pelicula": "El ente",
+        "motivo": "Una mujer es atormentada y abusada sexualmente por un demonio invisible."
+      },
+      {
+        "pelicula": "Misteriosa obsesión",
+        "motivo": "Un hombre y una mujer pronto descubren que hay un enemigo mucho más grande en el trabajo."
+      },
+      {
+        "pelicula": "Aflicción",
+        "motivo": "Un policía de un pequeño pueblo, investiga una muerte sospechosa de caza mientras otros eventos ponen en peligro su cordura."
+      },
+      {
+        "pelicula": "El silencio de los corderos",
+        "motivo": "Una joven cadete del FBI busca la ayuda de un asesino caníbal y manipulador encarcelado con el fin de atrapar a otro asesino en serie, un loco que despelleja a sus víctimas."
+      },
+      {
+        "pelicula": "Instinto básico",
+        "motivo": "Un violento detective de la policía investiga un brutal asesinato en el que podría estar implicada una manipuladora y seductora novelista."
+      }
+    ]
+  },
+  "Rodrigo": {
+    "recomendaciones": [
+      {
+        "pelicula": "Buenas noches, y buena suerte.",
+        "motivo": "Basada en hechos reales, narra la historia del famoso periodista de la CBS Edward R. Murrow"
+      },
+      {
+        "pelicula": "El asesinato de Richard Nixon",
+        "motivo": "Basado en hechos de la vida real, se desarrolla en 1974 y se centra en un empresario que decide tomar medidas extremas para lograr su sueño americano."
+      },
+      {
+        "pelicula": "La verdad oculta",
+        "motivo": "Basada en las experiencias de Kathryn Bolkovac, una policía de Nebraska que sirvió como oficial de paz en la posguerra de Bosnia y denunció públicamente a Naciones Unidas por encubrir abusos sexuales"
+      },
+      {
+        "pelicula": "El príncipe de la ciudad",
+        "motivo": "Un detective de estupefacientes de la ciudad de Nueva York acepta a regañadientes cooperar en una comisión especial que investiga la corrupción policial, y pronto se da cuenta de que su propia vida está en peligro"
+      },
+      {
+        "pelicula": "La noche cae sobre Manhattan",
+        "motivo": "Un fiscal de distrito recién elegido se encuentra en medio de una investigación de corrupción policial que puede involucrar a su padre y su pareja"
+      }
+    ]
+  },
+  "Camila": {
+    "recomendaciones": [
+      {
+        "pelicula": "Joe contra el volcán",
+        "motivo": "La relación entre dos personas comienza de forma ridícula o accidental"
+      },
+      {
+        "pelicula": "Un gran día para ellas",
+        "motivo": "La relación entre dos personas comienza de forma ridícula o accidental"
+      },
+      {
+        "pelicula": "Dharma y Greg",
+        "motivo": "Dos personas polos opuestos se enamoran"
+      },
+      {
+        "pelicula": "Two Much",
+        "motivo": "Un joven se enamora de dos hermanas al mismo tiempo"
+      },
+      {
+        "pelicula": "Mr. Deeds",
+        "motivo": "Una relación comienza de forma inesperada y accidental"
+      }
+    ]
+  },
+  "Tomás": {
+    "recomendaciones": [
+      {
+        "pelicula": "Primer",
+        "motivo": "La intención de la query se centra en películas que hagan pensar sobre qué es real y qué es una construcción, y el historial del usuario muestra interés en películas como Matrix y Fahrenheit 451, que también exploran temas similares. Primer es una película de ciencia ficción que sigue a cuatro amigos emprendedores que inventan un dispositivo que permite viajar en el tiempo, lo que desencadena una serie de eventos complejos y reflexivos."
+      },
+      {
+        "pelicula": "Gattaca",
+        "motivo": "La intención de la query también menciona la importancia de las ideas, y Gattaca es una película de ciencia ficción que explora temas como la identidad, la igualdad y la condición humana. La historia sigue a un hombre genéticamente inferior que asume la identidad de uno superior para cumplir su sueño de viajar al espacio."
+      },
+      {
+        "pelicula": "Equilibrium",
+        "motivo": "La intención de la query también menciona la importancia de las ideas, y Equilibrium es una película de ciencia ficción que explora temas como la libertad, la igualdad y la condición humana. La historia sigue a un hombre encargado de hacer cumplir la ley en un futuro opresivo donde todas las formas de sentimiento son ilegales."
+      },
+      {
+        "pelicula": "V de Vendetta",
+        "motivo": "La intención de la query también menciona la importancia de las ideas, y V de Vendetta es una película de ciencia ficción que explora temas como la libertad, la igualdad y la condición humana. La historia sigue a un luchador por la libertad en una futura tiranía británica."
+      },
+      {
+        "pelicula": "1984",
+        "motivo": "La intención de la query también menciona la importancia de las ideas, y 1984 es una película de ciencia ficción que explora temas como la libertad, la igualdad y la condición humana. La historia sigue a un hombre en una sociedad futura totalitaria donde el gobierno controla todos los aspectos de la vida."
+      }
+    ]
+  },
+  "Lucía": {
+    "recomendaciones": [
+      {
+        "pelicula": "El príncipe de Egipto",
+        "motivo": "La lucha por la identidad y libertad en un mundo opresivo"
+      },
+      {
+        "pelicula": "Avatar: La leyenda de Aang",
+        "motivo": "Un niño que lucha por su destino como el Avatar, trayendo paz al mundo"
+      },
+      {
+        "pelicula": "El jorobado de Notre Dame",
+        "motivo": "Un campanero que reivindica su libertad contra un político perverso"
+      },
+      {
+        "pelicula": "Los caballeros del zodíaco",
+        "motivo": "Un grupo de jóvenes guerreros que luchan por proteger la reencarnación de la diosa Atenea"
+      },
+      {
+        "pelicula": "Sailor Moon Sailor Stars",
+        "motivo": "Un grupo de estudiantes que descubren su identidad como encarnaciones de poderosas princesas alienígenas"
+      }
+    ]
+  },
+  "Martín": {
+    "recomendaciones": [
+      {
+        "pelicula": "Heat",
+        "motivo": "Un grupo de ladrones profesionales de alto nivel que planean un robo y las cosas se complican de forma inesperada, similar a lo que buscas."
+      },
+      {
+        "pelicula": "The Town: Ciudad de ladrones",
+        "motivo": "Un hábil grupo de ladrones roba un banco y mantiene como rehén a Claire, la subdirectora, con una trama compleja y emocionante."
+      },
+      {
+        "pelicula": "Con la poli en los talones",
+        "motivo": "Tres ladrones roban con éxito un banco de la ciudad de Nueva York, pero escapar de la ciudad resulta casi imposible, lo que se ajusta a tu búsqueda."
+      },
+      {
+        "pelicula": "Infalible",
+        "motivo": "Un grupo teórico lleva a cabo atracos y es chantajeado por un gángster para perpetren un verdadero atraco multimillonario, con una trama de crimen y comedia."
+      },
+      {
+        "pelicula": "Out of sight (Un romance muy peligroso)",
+        "motivo": "Un ladrón de bancos profesional que se ha dado a la fuga se siente atraído por la agente a la que ha secuestrado, con una trama de crimen y comedia."
+      }
+    ]
+  },
+  "Sofía": {
+    "recomendaciones": [
+      {
+        "pelicula": "Once",
+        "motivo": "La historia de amistad y colaboración artística entre un músico callejero y una joven inmigrante checa en Dublín"
+      },
+      {
+        "pelicula": "Sid y Nancy",
+        "motivo": "La relación tumultuosa entre Sid Vicious, bajista del grupo punk británico Sex Pistols, y su novia Nancy Spungen"
+      },
+      {
+        "pelicula": "Las aventuras de Priscilla, reina del desierto",
+        "motivo": "El viaje de dos drags y una mujer transgénero a través del desierto para poner en escena su estilo único de cabaret"
+      },
+      {
+        "pelicula": "Dreamgirls",
+        "motivo": "La lucha por el éxito y la fama de un trío de cantantes de música Soul a principios de los 60"
+      },
+      {
+        "pelicula": "Once",
+        "motivo": "La historia de amistad y colaboración artística entre un músico callejero y una joven inmigrante checa en Dublín"
+      }
+    ]
+  },
+  "Diego": {
+    "recomendaciones": [
+      {
+        "pelicula": "Misión: Imposible 2",
+        "motivo": "Continúa la acción y aventura de Ethan Hunt contra una organización criminal"
+      },
+      {
+        "pelicula": "Las aventuras de Jackie Chan",
+        "motivo": "Jackie Chan lucha contra una organización criminal con su familia extendida"
+      },
+      {
+        "pelicula": "Herida abierta",
+        "motivo": "Un policía descubre una red de policías corruptos y debe enfrentarlos"
+      },
+      {
+        "pelicula": "Justa venganza",
+        "motivo": "Ben Archer busca venganza contra las tríadas chinas después del asesinato de su esposa"
+      },
+      {
+        "pelicula": "Manhattan Sur",
+        "motivo": "Un detective lucha contra el crimen organizado en Chinatown después de los asesinatos de líderes de la Tríada y la Mafia"
+      }
+    ]
+  },
+  "Elena": {
+    "recomendaciones": [
+      {
+        "pelicula": "Algo en común",
+        "motivo": "Un joven atormentado y tranquilo vuelve a casa para asistir al funeral de su madre tras haber estado alejado de su familia durante una década."
+      },
+      {
+        "pelicula": "Cartas a Iris",
+        "motivo": "Una viuda angustiada se enamora de un cocinero analfabeta al que enseña a leer y escribir todas las noches en su cocina."
+      },
+      {
+        "pelicula": "Dulce hogar... ¡a veces!",
+        "motivo": "La familia Buckman lidia con los problemas de la vida: familiares distanciados, criar a los hijos, las presiones del trabajo, y cómo ser buen padre y cónyuge."
+      },
+      {
+        "pelicula": "Rebelión adolescente",
+        "motivo": "Mientras sus horribles padres se tambalean al borde del divorcio, Nick Twisp pone su mirada en la chica de sus sueños Sheeni Saunders, con la esperanza de que ella sea la que le quiera."
+      },
+      {
+        "pelicula": "Todos están bien",
+        "motivo": "Un viudo que se dio cuenta de que su única conexión con su familia era a través de su esposa, emprende un viaje improvisado para reunirse con cada uno de sus hijos mayores."
+      }
+    ]
+  },
+  "Facundo": {
+    "recomendaciones": [
+      {
+        "pelicula": "Irreversible",
+        "motivo": "La violación de Alex es un evento difícil de clasificar con una lógica narrativa propia y no convencional"
+      },
+      {
+        "pelicula": "Dead Man's Shoes",
+        "motivo": "El regreso del soldado a su ciudad natal para vengarse de los matones que brutalizaron a su hermano es un tema difícil de clasificar con una lógica narrativa propia y no convencional"
+      },
+      {
+        "pelicula": "Paranoid Park",
+        "motivo": "La vida del patinador adolescente comienza a desmoronarse después de verse involucrado en la muerte accidental de un guardia de seguridad, lo que es difícil de clasificar con una lógica narrativa propia y no convencional"
+      },
+      {
+        "pelicula": "Mysterious Skin",
+        "motivo": "La verdad horrible y liberadora descubierta por el estafador y el joven obsesionado con las abducciones extraterrestres es un tema difícil de clasificar con una lógica narrativa propia y no convencional"
+      },
+      {
+        "pelicula": "The Killing: Crónica de un asesinato",
+        "motivo": "La investigación de casos difíciles por parte de la detective Sarah Lund tiene consecuencias tanto personales como políticas, lo que es difícil de clasificar con una lógica narrativa propia y no convencional"
+      }
+    ]
+  },
+  "Julián": {
+    "recomendaciones": [
+      {
+        "pelicula": "Pride & Prejudice",
+        "motivo": "Es una adaptación de la novela clásica que combina romance y drama, lo que podría engancharte desde el principio."
+      },
+      {
+        "pelicula": "Metrópolis",
+        "motivo": "Tiene un enfoque épico y visualmente impresionante, con elementos de acción y aventura que podrían mantener tu interés."
+      },
+      {
+        "pelicula": "La pasión de Cristo",
+        "motivo": "Es una película dramática que explora temas profundos y emocionales, lo que podría ser atractivo para alguien que busca algo más intenso."
+      },
+      {
+        "pelicula": "El mundo en moto: La aventura continúa",
+        "motivo": "Ofrece un viaje visual y emocional a través de diferentes paisajes y culturas, con un enfoque en la aventura y la exploración."
+      },
+      {
+        "pelicula": "Sin City: Ciudad del pecado",
+        "motivo": "Es una película oscura y cruda que explora temas de corrupción y violencia, lo que podría ser atractivo para alguien que busca algo más intenso y emocional."
+      }
+    ]
+  },
+  "Mariana": {
+    "recomendaciones": [
+      {
+        "pelicula": "Ratatouille",
+        "motivo": "La historia de una rata que cocina en París es algo distinto a lo de siempre, pero no tan raro como otras opciones"
+      },
+      {
+        "pelicula": "Paris, je t'aime",
+        "motivo": "Esta película sobre el amor en París tiene un toque romántico y divertido que podría gustarle después de ver Amelie"
+      },
+      {
+        "pelicula": "¿Víctor o Victoria?",
+        "motivo": "La historia de una soprano travesti es una comedia divertida y con buenas actuaciones, lo que podría ser lo que busca"
+      },
+      {
+        "pelicula": "Caché (Escondido)",
+        "motivo": "Esta película de suspense tiene un toque de misterio y drama que podría gustarle después de ver Troya"
+      },
+      {
+        "pelicula": "Henry & June (El diario íntimo de Anaïs Nin)",
+        "motivo": "La historia de la vida de Anaïs Nin en París tiene un toque de drama y romance que podría ser lo que busca"
+      }
+    ]
+  },
+  "Nicolás": {
+    "recomendaciones": [
+      {
+        "pelicula": "Misión explosiva",
+        "motivo": "Es una película de acción y comedia que no es muy larga ni corta, perfecta para ver con amigos"
+      },
+      {
+        "pelicula": "Los informáticos",
+        "motivo": "Es una comedia divertida que puede ser vista en un solo asiento o con amigos, sin comprometer la atención del espectador"
+      },
+      {
+        "pelicula": "Dame un respiro",
+        "motivo": "Es una comedia ligera y entretenida que no requiere mucha concentración ni es demasiado larga"
+      },
+      {
+        "pelicula": "El juego de Hollywood",
+        "motivo": "Es una comedia con elementos de crimen y drama, perfecta para ver en un solo asiento o con amigos"
+      },
+      {
+        "pelicula": "Timón y Pumba",
+        "motivo": "Es una animación divertida y corta que puede ser vista con niños o adultos, sin comprometer la atención del espectador"
+      }
+    ]
+  },
+  "Paula": {
+    "recomendaciones": [
+      {
+        "pelicula": "Beautiful Girls",
+        "motivo": "La comedia y el drama en esta película te permitirán reflexionar sobre la vida sin sentirte abrumado"
+      },
+      {
+        "pelicula": "Intimidad",
+        "motivo": "Esta película de drama y romance te hará pensar sobre las relaciones y la intimidad sin ser demasiado profunda"
+      },
+      {
+        "pelicula": "Gintama",
+        "motivo": "La mezcla de acción, comedia y aventura en esta animación te mantendrá entretenido sin requerir mucha reflexión"
+      },
+      {
+        "pelicula": "El último americano virgen",
+        "motivo": "Esta comedia y drama sobre la juventud te permitirá recordar momentos de tu vida sin sentirte abrumado por la profundidad"
+      },
+      {
+        "pelicula": "2046",
+        "motivo": "La mezcla de romance, ciencia ficción y drama en esta película te hará reflexionar sobre las relaciones y el amor sin ser demasiado profundo"
+      }
+    ]
+  }
+}

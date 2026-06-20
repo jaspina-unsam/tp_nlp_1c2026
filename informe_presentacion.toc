@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Contexto y datos}{3}{0}{1}
+\beamer@sectionintoc {2}{Estrategia 1: Tópicos (LDA)}{6}{0}{2}
+\beamer@sectionintoc {3}{Resultados de la Estrategia 1}{9}{0}{3}
+\beamer@sectionintoc {4}{Estrategia 2: LLM local}{11}{0}{4}
+\beamer@sectionintoc {5}{Comparación y cierre}{13}{0}{5}
